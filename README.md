@@ -8,6 +8,18 @@ The definitive collection of 1613 free and freemium APIs for developers.
 | Categories   | 51 |
 | Last Updated | 2026-06-14  |
 
+```mermaid
+timeline
+    title API Repository Coverage
+
+    Initial Collection : 500 APIs
+    Verification Phase : 1000 APIs
+    Expansion Phase : 1400 APIs
+    Current Release : 1613 APIs
+    Future Target : 2500+ APIs
+    Long-Term Goal : 5000+ APIs
+```
+
 ---
 
 # CATEGORY INDEX
@@ -65,6 +77,27 @@ The definitive collection of 1613 free and freemium APIs for developers.
 | Vehicle | 11 |
 | Video | 46 |
 | Weather | 35 |
+
+```mermaid
+quadrantChart
+    title API Category Importance vs Size
+    x-axis Low Usage --> High Usage
+    y-axis Small Category --> Large Category
+
+    quadrant-1 High Value
+    quadrant-2 Niche
+    quadrant-3 Small
+    quadrant-4 Large
+
+    Development: [0.95, 0.95]
+    Government: [0.8, 0.9]
+    Geocoding: [0.85, 0.88]
+    Cryptocurrency: [0.9, 0.7]
+    Finance: [0.88, 0.65]
+    Weather: [0.75, 0.45]
+    Video: [0.65, 0.55]
+    Social: [0.7, 0.5]
+```
 
 ---
 
@@ -2074,19 +2107,45 @@ pie title APIs by Category
 ## Category Distribution
 
 ```mermaid
-pie
-title Top API Categories
-"Development" : 133
-"Games & Comics" : 98
-"Government" : 96
-"Geocoding" : 95
-"Transportation" : 75
-"Cryptocurrency" : 67
-"Finance" : 52
-"Video" : 46
-"Open Data" : 45
-"Social" : 43
-"Remaining Categories" : 863
+mindmap
+  root((Free APIs))
+    Development
+      GitHub
+      GitLab
+      CI/CD
+      DevOps
+    Government
+      Open Data
+      Public Records
+      Census
+    Geocoding
+      Maps
+      Location
+      Routing
+    Cryptocurrency
+      Exchanges
+      Market Data
+      Wallets
+    Finance
+      Stocks
+      Forex
+      Banking
+    Transportation
+      Flights
+      Railways
+      Traffic
+    AI & ML
+      LLMs
+      Vision
+      Speech
+```
+
+```mermaid
+xychart-beta
+title "Largest API Categories"
+x-axis [Development, Games, Government, Geocoding, Transport, Crypto, Finance, Video, OpenData, Social]
+y-axis "API Count" 0 --> 150
+bar [133, 98, 96, 95, 75, 67, 52, 46, 45, 43]
 ```
 
 ## Repository Scale

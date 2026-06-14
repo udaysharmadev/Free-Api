@@ -1,0 +1,11 @@
+{
+  "lastRun": "2026-06-14T12:00:00Z",
+  "history": [
+    {
+      "apiId": "gemini",
+      "timestamp": "2026-06-14T12:00:00Z",
+      "status": "verified",
+      "statusCode": 200
+    }
+  ]
+}

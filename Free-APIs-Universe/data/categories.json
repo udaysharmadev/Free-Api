@@ -1,0 +1,15 @@
+[
+  {"id": "ai-llm", "name": "AI & LLM", "description": "Artificial Intelligence, Large Language Models, and Machine Learning APIs."},
+  {"id": "weather", "name": "Weather", "description": "Current weather conditions, forecasts, and historical weather data."},
+  {"id": "finance", "name": "Finance", "description": "Financial data, banking, stocks, and economic APIs."},
+  {"id": "crypto", "name": "Crypto", "description": "Cryptocurrency exchanges, prices, and blockchain data."},
+  {"id": "sports", "name": "Sports", "description": "Live scores, schedules, and statistics for various sports."},
+  {"id": "movies", "name": "Movies", "description": "Movie databases, TV shows, and entertainment APIs."},
+  {"id": "books", "name": "Books", "description": "Libraries, book data, and literary APIs."},
+  {"id": "maps", "name": "Maps", "description": "Mapping, routing, and geolocation services."},
+  {"id": "space", "name": "Space", "description": "Astronomy, NASA, and space exploration APIs."},
+  {"id": "news", "name": "News", "description": "Global news, articles, and headline feeds."},
+  {"id": "government", "name": "Government", "description": "Government data, public records, and civic APIs."},
+  {"id": "development", "name": "Development", "description": "Developer tools, Git, DevOps, and cloud services."},
+  {"id": "security", "name": "Security", "description": "Cybersecurity, threat intelligence, and vulnerability data."}
+]

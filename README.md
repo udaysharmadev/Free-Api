@@ -214,7 +214,7 @@ quadrantChart
 
 ```mermaid
 pie title APIs by Category
-    "Development" : 133
+    "Development" : 130
     "Games & Comics" : 98
     "Government" : 96
     "Geocoding" : 95

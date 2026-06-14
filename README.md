@@ -1,3 +1,38 @@
+```mermaid
+mindmap
+  root((Free APIs))
+    Development
+      GitHub
+      GitLab
+      CI/CD
+      DevOps
+    Government
+      Open Data
+      Public Records
+      Census
+    Geocoding
+      Maps
+      Location
+      Routing
+    Cryptocurrency
+      Exchanges
+      Market Data
+      Wallets
+    Finance
+      Stocks
+      Forex
+      Banking
+    Transportation
+      Flights
+      Railways
+      Traffic
+    AI & ML
+      LLMs
+      Vision
+      Speech
+```
+
+
 # Free APIs for Developers
 
 The definitive collection of 1613 free and freemium APIs for developers.
@@ -2105,40 +2140,6 @@ pie title APIs by Category
 # 📈 Repository Analytics
 
 ## Category Distribution
-
-```mermaid
-mindmap
-  root((Free APIs))
-    Development
-      GitHub
-      GitLab
-      CI/CD
-      DevOps
-    Government
-      Open Data
-      Public Records
-      Census
-    Geocoding
-      Maps
-      Location
-      Routing
-    Cryptocurrency
-      Exchanges
-      Market Data
-      Wallets
-    Finance
-      Stocks
-      Forex
-      Banking
-    Transportation
-      Flights
-      Railways
-      Traffic
-    AI & ML
-      LLMs
-      Vision
-      Speech
-```
 
 ```mermaid
 xychart-beta

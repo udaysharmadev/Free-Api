@@ -1,0 +1,28 @@
+name: Recalculate Stats & Rankings Nightly
+
+on:
+  schedule:
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          
+      - name: Generate updated statistics
+        run: python scripts/generate.py
+        
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/stats.json data/rankings.json README.md
+          git commit -am "chore: auto-recalculate stats and rankings" || exit 0
+          git push

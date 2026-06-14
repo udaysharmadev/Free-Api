@@ -1,9 +1,14 @@
 # Development APIs
 
-> Developer tools, Git, DevOps, and cloud services.
+## Statistics
 
-Total APIs in this category: **1**
+| Metric | Value |
+| ------ | ----- |
+| Total APIs | 1 |
+| No Auth APIs | 0 |
 
-| API | Description | Auth | Free Tier | Docs |
-| --- | ----------- | ---- | --------- | ---- |
-| **GitHub** 🟢 | API for GitHub repositories, users, and organizations. | `OAuth` | Unlimited (Authenticated 5000/hr) | [Link](https://docs.github.com/en/rest) |
+## APIs
+
+| API | Description | Auth | Free Tier | Docs | Website |
+| --- | ----------- | ---- | --------- | ---- | ------- |
+| **GitHub** | API for GitHub repositories, users, and organizations. | `OAuth` | Unlimited (Authenticated 5000/hr) | [Docs](https://docs.github.com/en/rest) | [Site](https://github.com) |

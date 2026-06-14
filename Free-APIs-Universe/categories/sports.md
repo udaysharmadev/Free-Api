@@ -1,5 +1,13 @@
 # Sports APIs
 
-> Live scores, schedules, and statistics for various sports.
+## Statistics
 
-Total APIs in this category: **0**
+| Metric | Value |
+| ------ | ----- |
+| Total APIs | 0 |
+| No Auth APIs | 0 |
+
+## APIs
+
+| API | Description | Auth | Free Tier | Docs | Website |
+| --- | ----------- | ---- | --------- | ---- | ------- |

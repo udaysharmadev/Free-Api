@@ -1,4 +1,4 @@
-name: Auto-generate README and Category Pages
+name: Generate API Database Markdown
 
 on:
   push:
@@ -18,15 +18,13 @@ jobs:
         with:
           python-version: '3.11'
           
-      - name: Generate pages
-        run: |
-          python scripts/generate_readme.py
-          python scripts/generate_category_pages.py
+      - name: Run generation script
+        run: python scripts/generate.py
           
-      - name: Commit generated markdown
+      - name: Commit generated data and markdown
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add README.md categories/
-          git commit -m "docs: auto-generate markdown from JSON" || exit 0
+          git add README.md categories/ reports/ data/stats.json data/rankings.json
+          git commit -m "docs: auto-generate massive API database UI" || exit 0
           git push

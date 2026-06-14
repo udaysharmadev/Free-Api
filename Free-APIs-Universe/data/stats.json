@@ -1,0 +1,23 @@
+{
+  "totalApis": 5,
+  "totalCategories": 13,
+  "verifiedPercentage": "100%",
+  "noAuthApis": 2,
+  "openSourceApis": 1,
+  "lastVerification": "2026-06-14",
+  "categoryCounts": {
+    "ai-llm": 2,
+    "weather": 1,
+    "finance": 0,
+    "crypto": 1,
+    "sports": 0,
+    "movies": 0,
+    "books": 0,
+    "maps": 0,
+    "space": 0,
+    "news": 0,
+    "government": 0,
+    "development": 1,
+    "security": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "topOverall": [
+    "github",
+    "open-meteo",
+    "gemini",
+    "coingecko",
+    "openai"
+  ],
+  "topFree": [
+    "open-meteo",
+    "coingecko"
+  ],
+  "topHackathon": [
+    "open-meteo",
+    "gemini",
+    "coingecko",
+    "openai"
+  ],
+  "topStudent": [
+    "open-meteo",
+    "coingecko"
+  ]
+}

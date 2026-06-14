@@ -1,49 +1,86 @@
-<div align="center">
-  <h1>🌍 Free APIs Universe</h1>
-  <p><b>The world's largest actively maintained catalog of free and freemium APIs.</b></p>
-  <p><img src="https://img.shields.io/badge/Total%20APIs-5-brightgreen?style=for-the-badge" alt="API Count"></p>
-</div>
+# 🌍 Free APIs Universe
+> The most advanced API database for developers, researchers, and startups.
 
-Welcome to the **Free APIs Universe**. A massive, automatically verified catalog of developer APIs.
+## Repository Statistics
+| Metric | Value |
+| ------ | ----- |
+| Total APIs | 5+ |
+| Categories | 13 |
+| Verified APIs | 100% |
+| No Auth APIs | 2 |
+| Open Source APIs | 1 |
+| Last Verification | 2026-06-14 |
 
-## 📑 Table of Contents
+## Category Overview
+| Category | APIs |
+| -------- | ---- |
+| [AI & LLM](categories/ai-llm.md) | 2 |
+| [Weather](categories/weather.md) | 1 |
+| [Crypto](categories/crypto.md) | 1 |
+| [Development](categories/development.md) | 1 |
+| [Finance](categories/finance.md) | 0 |
+| [Sports](categories/sports.md) | 0 |
+| [Movies](categories/movies.md) | 0 |
+| [Books](categories/books.md) | 0 |
+| [Maps](categories/maps.md) | 0 |
+| [Space](categories/space.md) | 0 |
+| [News](categories/news.md) | 0 |
+| [Government](categories/government.md) | 0 |
+| [Security](categories/security.md) | 0 |
 
-- [AI & LLM](#ai--llm)
-- [Weather](#weather)
-- [Crypto](#crypto)
-- [Development](#development)
+## APIs by Category
+```mermaid
+pie
+title APIs by Category
+"AI & LLM" : 2
+"Weather" : 1
+"Crypto" : 1
+"Development" : 1
+```
 
----
+## Top 50 APIs Overall
+| Rank | API | Score | Docs |
+| ---- | --- | ----- | ---- |
+| 1 | GitHub | 99/100 | [Docs](https://docs.github.com/en/rest) |
+| 2 | Open-Meteo | 95/100 | [Docs](https://open-meteo.com/en/docs) |
+| 3 | Google Gemini | 93/100 | [Docs](https://ai.google.dev/docs) |
+| 4 | CoinGecko | 85/100 | [Docs](https://www.coingecko.com/en/api/documentation) |
+| 5 | OpenAI | 83/100 | [Docs](https://platform.openai.com/docs/api-reference) |
 
-## AI & LLM
+## Advanced Search
+### Search by Category
+- [AI & LLM](categories/ai-llm.md)
+- [Weather](categories/weather.md)
+- [Finance](categories/finance.md)
+- [Crypto](categories/crypto.md)
+- [Sports](categories/sports.md)
+- [Movies](categories/movies.md)
+- [Books](categories/books.md)
+- [Maps](categories/maps.md)
+- [Space](categories/space.md)
+- [News](categories/news.md)
+- [Government](categories/government.md)
+- [Development](categories/development.md)
+- [Security](categories/security.md)
 
-Artificial Intelligence, Large Language Models, and Machine Learning APIs.
+### Search by Tags
+#no-auth 
+#api-key 
+#oauth 
+#graphql 
+#rest 
+#open-source 
+#student-friendly 
+#high-rate-limit 
+#web3 
+#real-time 
 
-| API | Description | Auth | Free Tier | Docs |
-| --- | ----------- | ---- | --------- | ---- |
-| **Google Gemini** 🟢 | Google's most capable and general model for text, vision, and audio. | `apiKey` | Generous Free Tier | [Link](https://ai.google.dev/docs) |
-| **OpenAI** 🟢 | API for accessing OpenAI's powerful language models like GPT-4. | `apiKey` | No | [Link](https://platform.openai.com/docs/api-reference) |
-
-## Weather
-
-Current weather conditions, forecasts, and historical weather data.
-
-| API | Description | Auth | Free Tier | Docs |
-| --- | ----------- | ---- | --------- | ---- |
-| **Open-Meteo** 🟢 | Free open-source weather API with no API key required. | No | 10,000 requests/day | [Link](https://open-meteo.com/en/docs) |
-
-## Crypto
-
-Cryptocurrency exchanges, prices, and blockchain data.
-
-| API | Description | Auth | Free Tier | Docs |
-| --- | ----------- | ---- | --------- | ---- |
-| **CoinGecko** 🟢 | Cryptocurrency price and market data API. | No | 10-50 calls/minute | [Link](https://www.coingecko.com/en/api/documentation) |
-
-## Development
-
-Developer tools, Git, DevOps, and cloud services.
-
-| API | Description | Auth | Free Tier | Docs |
-| --- | ----------- | ---- | --------- | ---- |
-| **GitHub** 🟢 | API for GitHub repositories, users, and organizations. | `OAuth` | Unlimited (Authenticated 5000/hr) | [Link](https://docs.github.com/en/rest) |
+## API Quality Score
+Every API gets strictly graded:
+| Score Component | Points |
+| --------------- | ------ |
+| Documentation | 20 |
+| Reliability | 20 |
+| Popularity | 20 |
+| Free Tier | 20 |
+| Developer Experience | 20 |

@@ -19,7 +19,15 @@
     "openSource": false,
     "popularityScore": "99",
     "lastVerified": "2026-06-14",
-    "status": "verified"
+    "status": "verified",
+    "scores": {
+      "documentation": 20,
+      "reliability": 19,
+      "popularity": 20,
+      "freeTier": 5,
+      "developerExperience": 19,
+      "overall": 83
+    }
   },
   {
     "id": "gemini",
@@ -41,7 +49,15 @@
     "openSource": false,
     "popularityScore": "98",
     "lastVerified": "2026-06-14",
-    "status": "verified"
+    "status": "verified",
+    "scores": {
+      "documentation": 19,
+      "reliability": 19,
+      "popularity": 19,
+      "freeTier": 18,
+      "developerExperience": 18,
+      "overall": 93
+    }
   },
   {
     "id": "open-meteo",
@@ -63,7 +79,15 @@
     "openSource": true,
     "popularityScore": "95",
     "lastVerified": "2026-06-14",
-    "status": "verified"
+    "status": "verified",
+    "scores": {
+      "documentation": 18,
+      "reliability": 20,
+      "popularity": 18,
+      "freeTier": 20,
+      "developerExperience": 19,
+      "overall": 95
+    }
   },
   {
     "id": "github",
@@ -85,7 +109,15 @@
     "openSource": false,
     "popularityScore": "100",
     "lastVerified": "2026-06-14",
-    "status": "verified"
+    "status": "verified",
+    "scores": {
+      "documentation": 20,
+      "reliability": 20,
+      "popularity": 20,
+      "freeTier": 19,
+      "developerExperience": 20,
+      "overall": 99
+    }
   },
   {
     "id": "coingecko",
@@ -107,6 +139,14 @@
     "openSource": false,
     "popularityScore": "92",
     "lastVerified": "2026-06-14",
-    "status": "verified"
+    "status": "verified",
+    "scores": {
+      "documentation": 17,
+      "reliability": 18,
+      "popularity": 18,
+      "freeTier": 15,
+      "developerExperience": 17,
+      "overall": 85
+    }
   }
 ]

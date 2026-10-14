@@ -960,6 +960,7 @@ pie title APIs by Category
 | Portfolio Optimizer | Portfolio analysis and optimization | No | Yes | Yes | [Docs](https://portfoliooptimizer.io/) | [Website](https://portfoliooptimizer.io/) |
 | Razorpay IFSC | Indian Financial Systems Code (Bank Branch Codes) | No | Yes | Yes | [Docs](https://razorpay.com/docs/) | [Website](https://razorpay.com/docs/) |
 | Real Time Finance | Websocket API to access realtime stock data | `apiKey` | No | Yes | [Docs](https://github.com/Real-time-finance/finance-websocket-API/) | [Website](https://github.com/Real-time-finance/finance-websocket-API/) |
+| roic.ai | Fundamentals, financial ratios and earnings call transcripts for 68k+ companies | `apiKey` | Yes | Yes | [Docs](https://www.roic.ai/api) | [Website](https://www.roic.ai/) |
 | SEC EDGAR Data | API to access annual reports of public US companies | No | Yes | Yes | [Docs](https://www.sec.gov/edgar/sec-api-documentation) | [Website](https://www.sec.gov/edgar/sec-api-documentation) |
 | SmartAPI | Gain access to set of <SmartAPI> and create end-to-end broking services | `apiKey` | Yes | Yes | [Docs](https://smartapi.angelbroking.com/) | [Website](https://smartapi.angelbroking.com/) |
 | StockData | Real-Time, Intraday & Historical Market Data, News and Sentiment API | `apiKey` | Yes | Yes | [Docs](https://www.StockData.org) | [Website](https://www.StockData.org) |

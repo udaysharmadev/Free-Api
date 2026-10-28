@@ -677,6 +677,7 @@ pie title APIs by Category
 | DomainDb Info | Domain name search to find all domains containing particular words/phrases/etc | No | Yes | Yes | [Docs](https://api.domainsdb.info/) | [Website](https://api.domainsdb.info/) |
 | DownStatus | Real-time status for GitHub, AWS, Discord and 90+ services | No | Yes | Yes | [Docs](https://isitdownstatus.com) | [Website](https://isitdownstatus.com) |
 | ExtendsClass JSON Storage | A simple JSON store API | No | Yes | Yes | [Docs](https://extendsclass.com/json-storage.html) | [Website](https://extendsclass.com/json-storage.html) |
+| FastAF | Google SERP, web search & scraping API for AI agents | `apiKey` | Yes | Yes | [Docs](https://fastaf.co/docs/) | [Website](https://fastaf.co/compare/free-tier/?utm_source=free-api&utm_medium=listing&utm_campaign=free-tier-lists) |
 | GeekFlare | Provide numerous capabilities for important testing and monitoring methods for websites | `apiKey` | Yes | Yes | [Docs](https://apidocs.geekflare.com/docs/geekflare-api) | [Website](https://apidocs.geekflare.com/docs/geekflare-api) |
 | Genderize.io | Estimates a gender from a first name | No | Yes | Yes | [Docs](https://genderize.io) | [Website](https://genderize.io) |
 | GETPing | Trigger an email notification with a simple GET request | `apiKey` | Yes | Yes | [Docs](https://www.getping.info) | [Website](https://www.getping.info) |

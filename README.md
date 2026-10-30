@@ -671,6 +671,7 @@ pie title APIs by Category
 | Contentful Images | Used to retrieve and apply transformations to images | `apiKey` | Yes | Yes | [Docs](https://www.contentful.com/developers/docs/references/images-api/) | [Website](https://www.contentful.com/developers/docs/references/images-api/) |
 | CORS Proxy | Get around the dreaded CORS error by using this proxy as a middle man | No | Yes | Yes | [Docs](https://github.com/burhanuday/cors-proxy) | [Website](https://github.com/burhanuday/cors-proxy) |
 | CountAPI | Free and simple counting service. You can use it to track page hits and specific events | No | Yes | Yes | [Docs](https://countapi.xyz) | [Website](https://countapi.xyz) |
+| CurlShot | Screenshot any URL, HTML or Markdown as PNG, JPEG, WebP, PDF or video (100 free/month) | `apiKey` | Yes | Yes | [Docs](https://curlshot.com/docs) | [Website](https://curlshot.com/) |
 | Databricks | Service to manage your databricks account,clusters, notebooks, jobs and workspaces | `apiKey` | Yes | Yes | [Docs](https://docs.databricks.com/dev-tools/api/latest/index.html) | [Website](https://docs.databricks.com/dev-tools/api/latest/index.html) |
 | DigitalOcean Status | Status of all DigitalOcean services | No | Yes | Yes | [Docs](https://status.digitalocean.com/api) | [Website](https://status.digitalocean.com/api) |
 | Docker Hub | Interact with Docker Hub | `apiKey` | Yes | Yes | [Docs](https://docs.docker.com/docker-hub/api/latest/) | [Website](https://docs.docker.com/docker-hub/api/latest/) |

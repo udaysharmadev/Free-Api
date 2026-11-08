@@ -216,6 +216,7 @@ quadrantChart
 | DummyImage | Art & Design | No | Yes | Yes |
 | EmojiHub | Art & Design | No | Yes | Yes |
 | Europeana | Art & Design | `apiKey` | Yes | Yes |
+| FaviconDL | Art & Design | No | Yes | Yes |
 | Harvard Art Museums | Art & Design | `apiKey` | No | Yes |
 | Icon Horse | Art & Design | No | Yes | Yes |
 | Iconfinder | Art & Design | `apiKey` | Yes | Yes |
@@ -359,6 +360,7 @@ pie title APIs by Category
 | DummyImage | Generate placeholder images with custom size, colors and text | No | Yes | Yes | [Docs](https://dummyimage.com/) | [Website](https://dummyimage.com/) |
 | EmojiHub | Get emojis by categories and groups | No | Yes | Yes | [Docs](https://github.com/cheatsnake/emojihub) | [Website](https://github.com/cheatsnake/emojihub) |
 | Europeana | European Museum and Galleries content | `apiKey` | Yes | Yes | [Docs](https://pro.europeana.eu/resources/apis/search) | [Website](https://pro.europeana.eu/resources/apis/search) |
+| FaviconDL | Get any website's favicon as PNG/SVG/ICO (optional 16–512px resize) or JSON metadata | No | Yes | Yes | [Docs](https://favicondl.com/documentation.html) | [Website](https://favicondl.com) |
 | Harvard Art Museums | Art | `apiKey` | No | Yes | [Docs](https://github.com/harvardartmuseums/api-docs) | [Website](https://github.com/harvardartmuseums/api-docs) |
 | Icon Horse | Favicons for any website, with fallbacks | No | Yes | Yes | [Docs](https://icon.horse) | [Website](https://icon.horse) |
 | Iconfinder | Icons | `apiKey` | Yes | Yes | [Docs](https://developer.iconfinder.com) | [Website](https://developer.iconfinder.com) |
